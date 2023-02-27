@@ -36,8 +36,9 @@ Some Parts are redesgined to fit a ESP32 Development board inside.
 Here is a Picture of the finished Robot
 <img src="/doc/images/kame_stand.jpg" width="45%"></img>
 
+https://www.thingiverse.com/thing:3945903
 
-
+https://github.com/manuel6662/kameqwerty
 
 Board pins can be set to match this scheme in the function init of minikame library. Example:
 ````
