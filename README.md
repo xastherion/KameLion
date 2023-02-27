@@ -1,4 +1,16 @@
-# Kame
+# KameLion
+
+Is a "try to organize" that project from JavierIH in a new, easy an functional site.
+
+Of course i find Kame-8dof over internet, but it´s a lot o unorganized information.
+
+This is really because it scheint to be a programming freak people, but Kame is soooo nice, that is a beautiful project for parents the want to entusiasmate his children with tecnologie and robotic (my case)
+
+First:
+a bunch of 3d plastic is necesary. I find a good version in Thingiverse, from the original proyect from JavierIH. This parts are there, here in GibHub as JavierIH, and from p123ad too. Thanks a lot to both.
+
+
+
 This is a 8DOF quadrupet robot controlled with ESP32 board.
 Connection via Wifi and telnet protocol.
 
