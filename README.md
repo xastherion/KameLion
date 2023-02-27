@@ -9,8 +9,19 @@ This is really because it scheint to be a programming freak people, but Kame is 
 First:
 a bunch of 3d plastic is necesary. I find a good version in Thingiverse, from the original proyect from JavierIH. This parts are there, here in GibHub as JavierIH, and from p123ad too. Thanks a lot to both.
 
+hier is the link to Javier .stl files:
+https://www.thingiverse.com/thing:1265766
 
+Another user corioco modified some parts to fix Tower Pro Sg90 servos, because a hole is missed (sg90 have one central hole)
+https://www.thingiverse.com/thing:2827295
 
+I find it to late, i think i make a aditional hole in this JavierLH model, but i recomend the corioco because sg90´s are cheaper.
+
+Sergei do a nice remake of crabs-kame version
+https://github.com/serg0000/fatKame/tree/serg_dev
+ 
+-----------------------------------------------
+KAME (original text from p123ad):
 This is a 8DOF quadrupet robot controlled with ESP32 board.
 Connection via Wifi and telnet protocol.
 
