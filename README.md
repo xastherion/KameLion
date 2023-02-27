@@ -19,6 +19,11 @@ I find it to late, i think i make a aditional hole in this JavierLH model, but i
 
 Sergei do a nice remake of crabs-kame version
 https://github.com/serg0000/fatKame/tree/serg_dev
+
+and look like the programation is for arduino (my idee too)
+i will try it before another improvements, because for the moment, i print and build the skelett.
+
+
  
 -----------------------------------------------
 KAME (original text from p123ad):
