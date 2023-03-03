@@ -23,7 +23,8 @@ https://github.com/serg0000/fatKame/tree/serg_dev
 and look like the programation is for arduino (my idee too)
 i will try it before another improvements, because for the moment, i print and build the skelett.
 
-
+The rasperry pi 2 version:
+https://github.com/JavierIH/kame
  
 -----------------------------------------------
 KAME (original text from p123ad):
