@@ -31,10 +31,15 @@ https://www.antena3.com/programas/el-hormiguero/secciones/ciencia-marron/kame-el
 
 A little explication about all versions:
 
-KAME -author JavierHL: a Raspery 2 + ESP wifi modul + Quality Motors
-miniKAME
-poorKAME
+KAME - Original(?) author JavierHL: a Raspery 2 + ESP wifi modul + Quality Motors
 
+miniKAME
+
+poorKAME - a good adaptation version for the cheaper SG90 servos motors, especially Body and Brackets because the motors screws holes (just one instead of two) 
+
+p123ad/kame - very well CAD parts Documented version with diagrams and photos
+
+fatKAME - a improved beatifull "Crabs" version of miniKAME with distance sensors and simple "obtacles avoid" funktion. The Control-Website offer 3 funktions more too.
 
 
 -----------------------------------------------
