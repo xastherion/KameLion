@@ -25,7 +25,18 @@ i will try it before another improvements, because for the moment, i print and b
 
 The rasperry pi 2 version:
 https://github.com/JavierIH/kame
- 
+
+Very funny TV-Show with JavierIH:
+https://www.antena3.com/programas/el-hormiguero/secciones/ciencia-marron/kame-el-robot-impreso-en-3d-capaz-de-bailar-breakdance_201802215a8de6b70cf279b114c38345.html
+
+A little explication about all versions:
+
+KAME -author JavierHL: a Raspery 2 + ESP wifi modul + Quality Motors
+miniKAME
+poorKAME
+
+
+
 -----------------------------------------------
 KAME (original text from p123ad):
 This is a 8DOF quadrupet robot controlled with ESP32 board.
