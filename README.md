@@ -41,6 +41,8 @@ p123ad/kame - very well CAD parts Documented version with diagrams and photos
 
 fatKAME - a improved beatifull "Crabs" version of miniKAME with distance sensors and simple "obtacles avoid" funktion. The Control-Website offer 3 funktions more too.
 
+MORE VIDEOS:
+https://www.youtube.com/watch?v=6CAGECC3nNk&t=6s
 
 -----------------------------------------------
 KAME (original text from p123ad):
