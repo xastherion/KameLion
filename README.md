@@ -31,17 +31,17 @@ https://www.antena3.com/programas/el-hormiguero/secciones/ciencia-marron/kame-el
 
 ## A little explaining about all the versions i find
 
-KAME - Original(?) author JavierHL: a Raspery 2 + ESP wifi modul + Quality Motors
+**KAME** - Original(?) author JavierHL: a Raspery 2 + ESP wifi modul + Quality Motors
 
-miniKAME - smaller version of Kame for arduino / ESP, the servos stay of quality.
+**miniKAME** - smaller version of Kame for arduino / ESP, the servos stay of quality.
 
-poorKAME - a good adaptation version for the cheaper SG90 servos motors, especially Body and Brackets, because the motors screws holes are 4 (just one instead of two in SG90) 
+**poorKAME** - a good adaptation version for the cheaper SG90 servos motors, especially Body and Brackets, because the motors screws holes are 4 (just one instead of two in SG90) 
 
-p123ad/kame - very well CAD parts Documented version with diagrams and photos
+**p123ad/kame** - very well CAD parts Documented version with diagrams and photos
 
-fatKAME - a improved beatifull "Crabs" version of miniKAME with distance sensors and simple "obtacles avoid" funktion. The Control-Website offer 3 funktions more too.
+**fatKAME** - a improved beatifull "Crabs" version of miniKAME with distance sensors and simple "obtacles avoid" funktion. The Control-Website offer 3 funktions more too.
 
-poorKAME Punk (with voltage regulator):
+**poorKAME-Punk** (with voltage regulator):
 https://www.youtube.com/watch?v=6CAGECC3nNk&t=6s
 https://www.thingiverse.com/thing:1428651
 
