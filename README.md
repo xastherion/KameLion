@@ -29,7 +29,7 @@ https://github.com/JavierIH/kame
 Very funny TV-Show with JavierIH:
 https://www.antena3.com/programas/el-hormiguero/secciones/ciencia-marron/kame-el-robot-impreso-en-3d-capaz-de-bailar-breakdance_201802215a8de6b70cf279b114c38345.html
 
-## A little explaining about all the versions i find:
+## A little explaining about all the versions i find
 
 KAME - Original(?) author JavierHL: a Raspery 2 + ESP wifi modul + Quality Motors
 
