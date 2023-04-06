@@ -12,19 +12,19 @@ a bunch of 3d plastic is necesary. I find a good version in Thingiverse, from th
 ### Basically the Plastic Parts are:
 
 FOOTS (last foot parts):
-4 x Foots
+* 4 x Foots
 
 LEGS (middle foot part, of two):
-4 x Legs
-2 x UnderLegs Left
-2 x UnderLegs Right
+* 4 x Legs
+* 2 x UnderLegs Left
+* 2 x UnderLegs Right
 
 THIGHS (brackets):
-2 x Lefts Thighs
-2 x Right Thighs
+* 2 x Lefts Thighs
+* 2 x Right Thighs
 
 BODY
-Under and Top Body
+* Under and Top Body
 
 -- I want to improve all legs parts symetric, no right or left. By brackets is maybe not posible.
 Another desire is to create a separate case for top servos and container for motherboard, battery and other electronic parts.
