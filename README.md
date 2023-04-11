@@ -15,19 +15,20 @@ FOOTS (last foot parts):
 * 4 x Foots
 
 LEGS (middle foot part, of two):
-* 4 x Legs
-* 2 x UnderLegs Left
-* 2 x UnderLegs Right
+* 4 x TopLegs
+* 2 x BottomLegs Left
+* 2 x BottomLegs Right (bottomslegs are in sg90 -poor- Servos and another version is for mg90s)
 
-THIGHS (brackets):
-* 2 x Lefts Thighs
+THIGHS ("brackets" here it is a diference too between the used servos):
+* 2 x Lefts Thighs 
 * 2 x Right Thighs
 
 BODY
-* Under and Top Body
-
+* Under and Top Body:
+The original version from JavierL are very small. For beginning, it is not too ease to use many cabels or devices. The version from Sergei (Red Crab) is here very improved, i recomend it. This version have the smart feature too, that motor lid and brain lid are separated, because it is very hard to change motors, fix cabels or so in the JavierL version where all brackets close the lid in only one.
+ 
 -- I want to improve all legs parts symetric, no right or left. By brackets is maybe not posible.
-Another desire is to create a separate case for top servos and container for motherboard, battery and other electronic parts.
+-- Another desire is to create a separate case for top servos and container for motherboard, battery and other electronic parts. Here is a good option the Kame Crab version from Serg0000
 
 hier is the link to Javier .stl files:
 https://www.thingiverse.com/thing:1265766
@@ -53,7 +54,7 @@ https://www.antena3.com/programas/el-hormiguero/secciones/ciencia-marron/kame-el
 
 **KAME** - Original(?) author JavierHL: a Raspery 2 + ESP wifi modul + Quality Motors
 
-**miniKAME** - smaller version of Kame for arduino / ESP, the servos stay of quality.
+**miniKAME** - smaller version of Kame for arduino / ESP, the servos stay of quality (not for SG90). Author JavierHL.
 
 **poorKAME** - a good adaptation version for the cheaper SG90 servos motors, especially Body and Brackets, because the motors screws holes are 4 (just one instead of two in SG90) 
 
@@ -64,7 +65,6 @@ https://www.antena3.com/programas/el-hormiguero/secciones/ciencia-marron/kame-el
 **poorKAME-Punk** (with voltage regulator):
 https://www.youtube.com/watch?v=6CAGECC3nNk&t=6s
 https://www.thingiverse.com/thing:1428651
-
 
 https://www.thingiverse.com/thing:3945903
 https://github.com/manuel6662/kameqwerty
